@@ -1,5 +1,5 @@
 {
-  "cpo_enabled": false,
+  "cpo_enabled": true,
   "campaigns_enabled": {
     "search": true,
     "search_catalog": true,
